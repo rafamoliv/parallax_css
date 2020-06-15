@@ -1,1 +1,1 @@
-# parallax_css
+![parallax example](./assets/parallax.png)
